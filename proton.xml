@@ -39,7 +39,7 @@
   <remove-project name="platform/art" />
   <project name="android_art" path="art" remote="proton" groups="proton" />
   <remove-project name="platform/system/core" />
-  <project name="android_system_core" path="system/core" remote="proton" groups="proton" />
+  <project name="android_system_core" path="system/core" remote="proton-fajita" groups="proton" />
   <remove-project name="platform/system/sepolicy" />
   <project name="android_system_sepolicy" path="system/sepolicy" remote="proton" groups="proton" />
   <remove-project name="platform/external/noto-fonts" />
@@ -119,8 +119,6 @@
   <project name="android_external_armnn" path="external/armnn" remote="proton" groups="proton" />
   <remove-project name="platform/external/android-nn-driver" />
   <project name="android_external_android-nn-driver" path="external/android-nn-driver" remote="proton" groups="proton" />
-  <remove-project name="platform/system/core" />
-  <project name="android_system_core" path="system/core" remote="proton-fajita" groups="proton" />
   <remove-project name="platform/hardware/interfaces" />
   <project name="android_hardware_interfaces" path="hardware/interfaces" remote="proton-fajita" groups="proton" />
   <remove-project name="platform/system/update_engine" />

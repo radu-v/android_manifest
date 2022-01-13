@@ -1105,4 +1105,5 @@
 
   <!-- ProtonAOSP changes -->
   <include name="proton.xml"/>
+  <include name="proton-caf.xml"/>
 </manifest>
