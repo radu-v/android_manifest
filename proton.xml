@@ -85,17 +85,11 @@
   <remove-project name="platform/external/openssh" />
   <project name="android_external_openssh" path="external/openssh" remote="proton" groups="proton" />
   <remove-project name="device/google/coral-sepolicy" />
-  <project name="android_device_google_coral-sepolicy" path="device/google/coral-sepolicy" remote="proton" groups="proton" />
   <remove-project name="device/google/coral" />
-  <project name="android_device_google_coral" path="device/google/coral" remote="proton" groups="proton" />
   <remove-project name="device/google/redfin" />
-  <project name="android_device_google_redfin" path="device/google/redfin" remote="proton" groups="proton" />
   <remove-project name="device/google/redbull" />
-  <project name="android_device_google_redbull" path="device/google/redbull" remote="proton" groups="proton" />
   <remove-project name="device/google/redbull-sepolicy" />
-  <project name="android_device_google_redbull-sepolicy" path="device/google/redbull-sepolicy" remote="proton" groups="proton" />
   <remove-project name="device/google/bramble" />
-  <project name="android_device_google_bramble" path="device/google/bramble" remote="proton" groups="proton" />
   <remove-project name="platform/hardware/qcom/sm8150/display" />
   <project name="android_hardware_qcom_sm8150_display" path="hardware/qcom/sm8150/display" remote="proton" groups="proton" />
   <remove-project name="platform/hardware/qcom/sm8150/data/ipacfg-mgr" />
@@ -110,11 +104,8 @@
   <remove-project name="platform/hardware/qcom/sm7250/media" />
   <project name="android_hardware_qcom_sm7250_media" path="hardware/qcom/sm7250/media" remote="proton" groups="proton" />
   <remove-project name="device/google/gs101" />
-  <project name="android_device_google_gs101" path="device/google/gs101" remote="proton" groups="proton" />
   <remove-project name="device/google/gs101-sepolicy" />
-  <project name="android_device_google_gs101-sepolicy" path="device/google/gs101-sepolicy" remote="proton" groups="proton" />
   <remove-project name="device/google/raviole" />
-  <project name="android_device_google_raviole" path="device/google/raviole" remote="proton" groups="proton" />
   <remove-project name="platform/external/armnn" />
   <project name="android_external_armnn" path="external/armnn" remote="proton" groups="proton" />
   <remove-project name="platform/external/android-nn-driver" />
