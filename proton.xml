@@ -138,6 +138,7 @@
   <project name="android_external_zip" path="external/zip" remote="proton" groups="proton" />
   <project name="android_external_rsync" path="external/rsync" remote="proton" groups="proton" />
   <project name="android_external_colorkt" path="external/colorkt" remote="proton" groups="proton" />
+  <project name="android_external_tinyxml" path="external/tinyxml" remote="proton-fajita" groups="proton" />
   <project name="android_tools_extract-utils" path="tools/extract-utils" remote="proton" groups="proton" />
   <project name="android_vendor_google" path="vendor/google" remote="blobs" groups="proton" />
   <project name="ProtonAOSP/android_vendor_gapps" path="vendor/gapps" remote="gitlab" revision="sc" />
