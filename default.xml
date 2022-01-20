@@ -1103,7 +1103,7 @@
 
   <repo-hooks in-project="platform/tools/repohooks" enabled-list="pre-upload" />
 
-  <!-- ProtonAOSP changes -->
-  <include name="proton.xml"/>
-  <include name="proton-caf.xml"/>
+  <!-- PXOSP changes -->
+  <include name="pxosp.xml"/>
+  <include name="pxosp-caf.xml"/>
 </manifest>
