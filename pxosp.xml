@@ -140,7 +140,6 @@
   <project name="android_external_colorkt" path="external/colorkt" remote="proton" groups="proton" />
   <project name="android_external_tinyxml" path="external/tinyxml" remote="pxosp" groups="proton" />
   <project name="android_tools_extract-utils" path="tools/extract-utils" remote="proton" groups="proton" />
-  <project name="android_vendor_google" path="vendor/google" remote="blobs" groups="proton" />
   <project name="ProtonAOSP/android_vendor_gapps" path="vendor/gapps" remote="gitlab" revision="sc" />
   <project name="android_external_themelib" path="external/themelib" remote="proton" groups="proton" />
   <project name="android_vendor_qcom_opensource_commonsys-intf_display" path="vendor/qcom/opensource/commonsys-intf/display" remote="proton" groups="proton" />
